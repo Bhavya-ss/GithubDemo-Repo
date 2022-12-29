@@ -1,10 +1,11 @@
 
 # This program adds two numbers
 
-num1 = 1.5
-num2 = 6.3
+num1 = 2.5
+num3=
+num2 = 7.3
 
-# Add two numbers
+# Add two numbers in sum
 sum = num1 + num2
 
 # Display the sum
